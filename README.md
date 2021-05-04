@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World! 👋
+---
 
-<!--
-**ferluchin/ferluchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I am Luis Granda, from cold Loja, in the South of Ecuador (South America). I am an engineer, entrepreneur, programmer, and gamer.
 
-Here are some ideas to get you started:
+💻 My code is mainly focused in 🌐 Web development: Front-End with JavaScript, and backend with Ruby on Rails, although I do a lot of this and that with other languages, frameworks, and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about anything related to coding, which is what I do for a living.
+
+📫 You can reach me through:
+
+
+
+-[LinkedIn](https://www.linkedin.com/in/luis-granda/) <br>
+-[Twitter](https://twitter.com/ferluchin/) <br>
+-[Instagram](https://instagram.com/ferluchin/)
+
