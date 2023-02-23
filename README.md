@@ -30,7 +30,7 @@ When I'm not coding, you can find me exploring the outdoors, or sharing my knowl
 
 ### 📫 You can reach me through:
 
--[Gmail](lgrandab@gmail.com) <br>
+-[Gmail] lgrandab@gmail.com <br>
 -[LinkedIn](https://www.linkedin.com/in/luis-granda/) <br>
 -[Twitter](https://twitter.com/ferluchin/) <br>
 -[Instagram](https://instagram.com/ferluchin/)
