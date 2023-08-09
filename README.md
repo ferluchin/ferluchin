@@ -4,19 +4,22 @@
   <img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" />
 </p>
 
-💻I'm a passionate software engineer from Loja, Ecuador with a love for programming, entrepreneurship, and gaming. 
+![Profile Views](https://komarev.com/ghpvc/?username=ferluchin&style=plastic&color=brightgreen)
 
-My focus is mainly on web development, with extensive experience in both front-end technologies such as JavaScript, HTML, CSS, and frameworks 
-like React, and back-end technologies like Ruby on Rails. 
-I have also worked with other languages, frameworks, and tools, and love to explore new technologies and techniques to solve problems.
+## 👨‍💻 About Me
+Hello there! I'm a software engineer hailing from Loja, Ecuador. My passion lies at the intersection of coding, entrepreneurship, and gaming.
 
-I take great pride in my ability to solve complex problems and turn ideas into working applications. 
-I believe in writing clean, maintainable code that not only works but is also scalable, and user-friendly.
+### 🛠 Tech Stack
 
-When I'm not coding, you can find me exploring the outdoors, or sharing my knowledge of coding through my social media platforms.
+- **Web Development**: JavaScript, HTML, CSS
+- **Frontend**: React
+- **Backend**: Ruby on Rails
 
-💬 Feel free to reach out to me through any of the links below, I'm always open to new opportunities and collaborations.
 
+I pride myself on crafting efficient solutions to intricate problems, transforming concepts into functional applications. For me, coding isn't just about making things work—it's about writing neat, scalable, and intuitive code.
+
+### 🌍 Explorations
+Beyond the world of ones and zeroes, the great outdoors beckons me. Whether it's trekking in nature or digitally through my social media channels, sharing insights about coding and tech.
 
 ### Skills
 
