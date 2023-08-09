@@ -1,7 +1,8 @@
+<h1 align="center">Hello, I'm Luis Granda! 👋</h1>
 
-
-
-## Hello, I'm Luis Granda! 👋
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" />
+</p>
 
 💻I'm a passionate software engineer from Loja, Ecuador with a love for programming, entrepreneurship, and gaming. 
 
@@ -19,19 +20,26 @@ When I'm not coding, you can find me exploring the outdoors, or sharing my knowl
 
 ### Skills
 
-- JavaScript
-- React
-- Node.js
-- Python
-- Django
-- HTML/CSS
-- Git
-- MySQL, PostgreSQL
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,django,html,css,git" />
+  </a>
+</p>
 
-### 📫 You can reach me through:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,postgres,mysql,mongodb,docker,nginx,redis,graphql" />
+  </a>
+</p>
 
--[Gmail] lgrandab@gmail.com <br>
--[LinkedIn](https://www.linkedin.com/in/luis-granda/) <br>
--[Twitter](https://twitter.com/ferluchin/) <br>
--[Instagram](https://instagram.com/ferluchin/)
 
+
+
+🌐 **Get in Touch**
+
+- 📧 **Gmail**: [lgrandab@gmail.com](mailto:lgrandab@gmail.com)
+- 🌐 **LinkedIn**: [Luis Granda](https://www.linkedin.com/in/luis-granda/)
+- 🐦 **Twitter**: [@ferluchin](https://twitter.com/ferluchin/)
+- 📸 **Instagram**: [@ferluchin](https://instagram.com/ferluchin/)
+
+💼 Open to collaborations and exciting opportunities!
