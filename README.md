@@ -1,13 +1,11 @@
 <h1 align="center">Hello, I'm Luis Granda! 👋</h1>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" />
-</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ferluchin&style=plastic&color=brightgreen)
+## 👨‍💻 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=ferluchin&style=plastic&color=brightgreen)
 
-## 👨‍💻 About Me
-Hello there! I'm a software engineer hailing from Loja, Ecuador. My passion lies at the intersection of coding, entrepreneurship, and gaming.
+Hello there! I'm a software engineer hailing from Loja, Ecuador. My passion lies at the intersection of coding and gaming.
+
+**🌐 Visit my [Portfolio](https://lfgranda3.netlify.app/) to see my work.**
 
 ### 🛠 Tech Stack
 
@@ -35,14 +33,14 @@ Beyond the world of ones and zeroes, the great outdoors beckons me. Whether it's
   </a>
 </p>
 
-
-
-
 🌐 **Get in Touch**
 
 - 📧 **Gmail**: [lgrandab@gmail.com](mailto:lgrandab@gmail.com)
 - 🌐 **LinkedIn**: [Luis Granda](https://www.linkedin.com/in/luis-granda/)
 - 🐦 **Twitter**: [@ferluchin](https://twitter.com/ferluchin/)
-- 📸 **Instagram**: [@ferluchin](https://instagram.com/ferluchin/)
 
 💼 Open to collaborations and exciting opportunities!
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" />
+</p>
