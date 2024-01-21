@@ -1,5 +1,11 @@
 <h1 align="center">Hello, I'm Luis Granda! 👋</h1>
 
+<p align="center">
+  <!--
+  <img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" />
+  -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ferluchin&theme=youtube-dark" alt="GitHub Streak" /></a>
+</p>  
 
 ## 👨‍💻 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=ferluchin&style=plastic&color=brightgreen)
 
@@ -41,6 +47,3 @@ Beyond the world of ones and zeroes, the great outdoors beckons me. Whether it's
 
 💼 Open to collaborations and exciting opportunities!
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" />
-</p>
