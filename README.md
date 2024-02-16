@@ -4,7 +4,7 @@
   <!--
   <img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" />
   -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ferluchin&theme=youtube-dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ferluchin&theme=dark" alt="GitHub Streak" /></a>
 </p>  
 
 ## 👨‍💻 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=ferluchin&style=plastic&color=brightgreen)
