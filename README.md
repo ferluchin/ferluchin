@@ -15,9 +15,9 @@ Hello there! I'm a software engineer hailing from Loja, Ecuador. My passion lies
 
 ### 🛠 Tech Stack
 
-- **Web Development**: JavaScript, HTML, CSS
-- **Frontend**: React
-- **Backend**: Ruby on Rails
+- **Web Development**: JavaScript, Javascript, Typescript, HTML5, CSS3
+- **Frontend**: React, Angular Vue
+- **Backend**:  Node.js & Ruby on Rails
 
 
 I pride myself on crafting efficient solutions to intricate problems, transforming concepts into functional applications. For me, coding isn't just about making things work—it's about writing neat, scalable, and intuitive code.
