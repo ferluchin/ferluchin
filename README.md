@@ -47,3 +47,6 @@ Beyond the world of ones and zeroes, the great outdoors beckons me. Whether it's
 
 💼 Open to collaborations and exciting opportunities!
 
+
+
+
