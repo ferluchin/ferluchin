@@ -1,51 +1,73 @@
-<h1 align="center"> Hello, I'm Luis Granda! 👋 </h1>
+<h1 align="center">Hey, I'm Luis Granda 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=ferluchin&theme=youtube-dark" alt="GitHub Streak" />
-  </a>
-</p>  
-
-## 👨‍💻 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=ferluchin&style=plastic&color=brightgreen)
-
-Hello there! I'm a software engineer hailing from Loja, Ecuador. My passion lies at the intersection of coding and gaming.
-
-**🌐 Visit my [Portfolio](https://lfgranda3.netlify.app/) to see my work.**
-
-### 🛠 Tech Stack
-
-- **Web Development**: JavaScript, Javascript, Typescript, HTML5, CSS3
-- **Frontend**: React, Angular Vue
-- **Backend**:  Node.js & Ruby on Rails
-
-
-I pride myself on crafting efficient solutions to intricate problems, transforming concepts into functional applications. For me, coding isn't just about making things work—it's about writing neat, scalable, and intuitive code.
-
-### 🌍 Explorations
-Beyond the world of ones and zeroes, the great outdoors beckons me. Whether it's trekking in nature or digitally through my social media channels, sharing insights about coding and tech.
-
-### Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,django,html,css,git" />
-  </a>
+  <b>MSc. Computer Science · Software Engineer · DevOps</b><br>
+  Loja, Ecuador 🇪🇨 · English C2 · Spanish Native
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,postgres,mysql,mongodb,docker,nginx,redis,graphql" />
-  </a>
+  <a href="https://lfgranda3.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-lfgranda3-blue?style=flat" /></a>
+  <a href="https://www.linkedin.com/in/luis-granda/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="mailto:lgrandab@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
+  <a href="https://torre.ai/lgrandab"><img src="https://img.shields.io/badge/Torre-purple?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAEpJREFUOE9jZKAQMDJQCTBSOU4Gw6f////D4A8fPjBeu3YNqvrkiROMf2BJYeDAgAFjIB2DAFUxEBspHooQ8//8/Q+igWoMBkMYAKv0BGUqRiB7AAAAAElFTkSuQmCC&style=flat" /></a>
 </p>
 
-🌐 **Get in Touch**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ferluchin&theme=youtube-dark" alt="GitHub Streak" />
+</p>
 
-- 📧 **Gmail**: [lgrandab@gmail.com](mailto:lgrandab@gmail.com)
-- 🌐 **LinkedIn**: [Luis Granda](https://www.linkedin.com/in/luis-granda/)
-- 🐦 **Twitter**: [@ferluchin](https://twitter.com/ferluchin/)
+---
 
-💼 Open to collaborations and exciting opportunities!
+## 💼 About Me
 
+Software Engineer with 5+ years building web and mobile apps. Currently **DevOps Engineer at Banco Pichincha** (via Devsu), provisioning cloud/on-prem environments with Kubernetes, Docker, and Azure DevOps. Previously led frontend teams, built iOS apps, and developed AI/ML systems for emotion detection and medical recommendation.
 
+**What I do:**
+- CI/CD pipelines, infrastructure, containers
+- Full-stack web apps (React, Angular, Node.js, Python)
+- AI/ML: TensorFlow, OpenCV, scikit-learn
+- Clean, scalable code. Agile teams.
 
+---
 
+## 🛠 Tech Stack
+
+**Languages**  
+`TypeScript` `JavaScript` `Python` `SQL` `Swift` `Objective-C` `Scala` `PHP`
+
+**Frontend**  
+`React` `Angular` `Vue.js` `Next.js` `Material UI` `TailwindCSS` `Bootstrap` `D3.js`
+
+**Backend & Cloud**  
+`Node.js` `Django` `Firebase` `PostgreSQL` `MongoDB` `MySQL` `Redis`
+
+**DevOps & Tools**  
+`Kubernetes` `Docker` `Azure DevOps` `Google Cloud` `Git` `CI/CD` `Linux`
+
+**AI / ML**  
+`TensorFlow` `OpenCV` `scikit-learn` `pandas` `NumPy`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,vue,nodejs,py,django,postgres,mongodb,mysql,redis,docker,kubernetes,gcp,git,firebase,tensorflow" />
+</p>
+
+---
+
+## 📌 Selected Projects
+
+- [**Medical Recommender System**](https://github.com/ferluchin/medical-recommender-system) — Master's thesis: collaborative filtering + clustering approach for diabetes medication recommendation (Python/scikit-learn)
+- [**SG-Ascendere**](https://sg-ascendere.liidutpl.ec/) — Research project management platform for UTPL's Vice-Rectory of Research ([source](https://github.com/ferluchin/gestor_admin)) (React + Firebase)
+- [**UTPL Research Platform**](https://github.com/ferluchin/Investigacion-UTPL) — Web platform for UTPL research and AI experiment management (Angular + Django + MongoDB)
+
+---
+
+## 📫 Let's Connect
+
+- 💌 **Email**: [lgrandab@gmail.com](mailto:lgrandab@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/luis-granda](https://www.linkedin.com/in/luis-granda/)
+- 🐦 **X**: [@ferluchin](https://x.com/ferluchin)
+- 🌐 **Portfolio**: [lfgranda3.netlify.app](https://lfgranda3.netlify.app/)
+
+---
+
+<p align="center"><i>Open to collaborations and exciting opportunities.</i></p>
