@@ -48,7 +48,10 @@ Software Engineer with 5+ years building web and mobile apps. Currently **DevOps
 `TensorFlow` `OpenCV` `scikit-learn` `pandas` `NumPy`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,vue,nodejs,py,django,postgres,mongodb,mysql,redis,docker,kubernetes,gcp,git,firebase,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,vue,nodejs,py,django,tensorflow" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,gcp,git,firebase" />
 </p>
 
 ---
